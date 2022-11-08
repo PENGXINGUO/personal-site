@@ -11,10 +11,9 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">About this site Peng Xinguo</Link></h2>
+          <h2 data-testid="heading"><Link to="/">Peng Xinguo， Welcome to the cutest's website.</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            lalallallalalalalal
           </p>
         </div>
       </header>

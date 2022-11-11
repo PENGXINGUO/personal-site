@@ -9,7 +9,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpeg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/kitty1.jpeg`} alt="" />
       </Link>
       <header>
         <h2>XINGUO (CATHERINE) PENG</h2>
@@ -19,14 +19,10 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Xinguo (Catherine). I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I am a second-year <a href="https://dyson.cornell.edu/">MPS-Applied Economics and Management </a>
+        graduate at Cornell. Before that, I was working
+        at <a href="http://www.cs.ecitic.com/newsite/en/">CITICS </a>for two years as a Senior Financial Advisor.
+        I am passionate in Capital Market Equity Research, and Wealth Management.
       </p>
       <ul className="actions">
         <li>

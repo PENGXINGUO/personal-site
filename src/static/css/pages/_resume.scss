@@ -21,13 +21,28 @@
 	.education {
 
 		.title {
-			text-align: center;
+			//text-align: center;
+			margin-bottom: 2em;
+			font-family: Serif
+		}
+	}
+	.publication {
+
+		.title {
+			//text-align: center;
+			margin-bottom: 2em;
+		}
+	}
+	.extracurricular {
+
+		.title {
+			//text-align: center;
 			margin-bottom: 2em;
 		}
 	}
 	.experience {
 		.title {
-			text-align: center;
+			//text-align: center;
 		}
 		.job {
 			margin: 1em;
@@ -82,22 +97,15 @@
 	margin-bottom: .2em;
 }
 
+
+.interest-content {
+	font-family: "Raleway", Helvetica, sans-serif;
+	font-size: 0.9em;
+}
+
 .degree-container {
 	h4 {
 		font-weight: normal;
-	}
-
-	.degree {
-		margin-bottom: .1em;
-		text-transform: none;
-		letter-spacing: 0.16em;
-		font-size: .8em;
-	}
-
-	.school {
-		text-transform: none;
-		padding-top: 0.3em;
-		margin-bottom: 1em;
 	}
 }
 
